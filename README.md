@@ -55,3 +55,14 @@ This dashboard provides the bank with an *Actionable Reporting Tool* that leads 
 * *Domain Knowledge Document:* [Domain Knowledge.docx](https://github.com/vashnavikashaudhan24-svg/bank-loan-analysis-powerbi/blob/main/Domain%20Knowledge.doc.docx)
 * *Raw Data:* [Financial loan Raw Data.csv](https://github.com/vashnavikashaudhan24-svg/bank-loan-analysis-powerbi/blob/main/Financial%20loan%20Raw%20%20Data.csv)
 
+### 📸 Screenshots (Dashboard Images)
+
+| Summary | Overview | Details | 
+| :---: | :---: | :---: | 
+| ![Summary](https://github.com/vashnavikashaudhan24-svg/bank-loan-analysis-powerbi/blob/main/Screenshot%20124749.png) | ![Overview](https://github.com/vashnavikashaudhan24-svg/bank-loan-analysis-powerbi/blob/main/Screenshot%20124929.png) | ![Details](https://github.com/vashnavikashaudhan24-svg/bank-loan-analysis-powerbi/blob/main/Screenshot%20125022.png) | 
+
+
+
+---
+*Thank you for exploring this project!*
+

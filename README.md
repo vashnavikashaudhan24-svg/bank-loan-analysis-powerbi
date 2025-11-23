@@ -49,3 +49,9 @@ This dashboard provides the bank with an *Actionable Reporting Tool* that leads 
 3.  *Efficiency:* Eliminating manual reporting and offering real-time performance insights.
 
 ### 🔗 Project Documentation & Files
+
+* *Power BI Dashboard File:* [Bank Loan Analysis Dashboard.pbit](https://github.com/vashnavikashaudhan24-svg/bank-loan-analysis-powerbi/blob/main/Bank%20Loan%20Analysis%20Dashboard.pbit)
+* *SQL Queries Report:* [Bank Loan SQL Queries.docx](https://github.com/vashnavikashaudhan24-svg/bank-loan-analysis-powerbi/blob/main/Bank%20Loan%20SQL%20Queries.doc.docx)
+* *Domain Knowledge Document:* [Domain Knowledge.docx](https://github.com/vashnavikashaudhan24-svg/bank-loan-analysis-powerbi/blob/main/Domain%20Knowledge.doc.docx)
+* *Raw Data:* [Financial loan Raw Data.csv](https://github.com/vashnavikashaudhan24-svg/bank-loan-analysis-powerbi/blob/main/Financial%20loan%20Raw%20%20Data.csv)
+*
